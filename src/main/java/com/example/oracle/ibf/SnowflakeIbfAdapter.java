@@ -1,3 +1,4 @@
+/*
 package com.example.oracle.ibf;
 
 
@@ -184,3 +185,4 @@ public class SnowflakeIbfAdapter extends SnowflakeIbfBase
                 .build();
     }
 }
+*/

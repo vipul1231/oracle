@@ -1,3 +1,4 @@
+/*
 package com.example.oracle.ibf;
 
 import com.example.core.Column;
@@ -64,3 +65,4 @@ public class SnowflakeIbfBase {
 //        }
     }
 }
+*/
